@@ -5,7 +5,7 @@ This is my solution to the JS Engineering Challenge.
 
 This app was build using [React](https://reactjs.org/) and [Bootstrap](https://getbootstrap.com)
 The app allows the user to search through the table by id, email, first/last name, etc. and the 
-result are automatically updated as the user types. I hope you like it!
+results are automatically updated as the user types. I hope you like it!
 
 ## Screenshot 
 ![Image](screenshot.PNG "web page with list of customers and search bar")

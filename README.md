@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshot
-![Image](screenshot.png "web page with list of customers and search bar")
+![Image](screenshot.PNG "web page with list of customers and search bar")
 
 ## Available Scripts
 

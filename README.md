@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Summary
 This is my solution to the JS Engineering Challenge.
 
-This app was build using [React](https://reactjs.org/) and [Bootstrap](https://getbootstrap.com)
+This app was build using [React](https://reactjs.org/) and [Bootstrap](https://getbootstrap.com).
 The app allows the user to search through the table by id, email, first/last name, etc. and the 
 results are automatically updated as the user types. I hope you like it!
 
